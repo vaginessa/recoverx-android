@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RecoverX</string>
+    <string name="activityAbout">About</string>
+    <string name="activityPreferences">Preferences</string>
+    <string name="activityAdvancedPreferences">Advanced</string>
+    <string name="startSu">Reboot device</string>
+    <string name="startDownload">Download manifest</string>
+    <string name="beginProcedure">Let\'s start</string>
+    <string name="helpMe">Show me the possibilities</string>
+    <string name="startParsing">Parse XML</string>
+    <string name="fileExistence">Check file</string>
+    
+    <string name="generalDescription">PNG_IMG</string>
+    <string name="mainTextView">Welcome to RecoverX</string>
+    <string name="brandTextView">Select your brand</string>
+    <string name="deviceTextView">Select your device</string>
+    
+    <string name="recoveryTextView">Choose a recovery to install</string>
+    
+    <string name="installationTextView">The installation is ready to start</string>
+    <string name="deviceDetailsShowTextView">Device details</string>
+    <string name="recoveryDetailsShowTextView">Recovery details</string>
+    <string name="beginButton">Here we go !</string>
+   	
+    <string name="totalTextView">totalTextView</string>
+    <string name="concludingTextView">concludingTextView</string>
+    <string name="descriptionTextView">descriptionTextView</string>
+    <string name="helpButton">helpButton</string>
+    <string name="rateMe">Rate this app !</string>
+    
+    <string name="actionSettings">Settings</string>
+    <string name="actionHelp">Help</string>
+    <string name="actionAbout">About</string>
+    
+    <string name="titleDevMode">Dev mode</string>
+    <string name="summaryDevMode">This option allow you to download the recovery package without flashing it</string>
+    <string name="titleAnalytics">Google Analytics</string>
+    <string name="summaryAnalytics">Allow us to improve RecoverX by collecting statistics</string>
+    <string name="titleAddDevice">Submit a new device</string>
+    <string name="summaryAddDevice">Want a new device to be added ?</string>
+    <string name="titleReportBug">Report a bug</string>
+    <string name="summaryReportBug">Report a us a bug in RecoverX</string>
+    <string name="titleAdvancedPreferences">Advanced</string>
+    <string name="summaryAdvancedPreferences">Settings for advanced users</string>
+    
+    <string name="titleBooleanCustomFlash">Custom flash command</string>
+    <string name="summaryBooleanCustomFlash">Define a custom flash command for recovery package</string>
+    <string name="titleStringCustomFlash">Edit the command</string>
+    <string name="summaryStringCustomFlash">RecoverX package is located to /sdcard/recoverx/download/</string>
+    
+    <string name="categorySupport">Support</string>
+    <string name="titleRecoverxVersion">RecoverX (Mobile Edition)</string>
+    <string name="titleRecoverxXdaLink">XDA Developer Forum</string>
+    <string name="titleRecoverxGooglePlusLink">Follow me on Google+</string>
+    <string name="titleRecoverxYoutubeLink">Introducing RecoverX</string>
+    <string name="titleRecoverxWebsiteLink">Visit the website</string>
+    
+</resources>

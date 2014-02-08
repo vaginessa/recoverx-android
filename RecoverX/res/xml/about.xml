@@ -1,0 +1,28 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+android:key="general_preferencescreen" >
+		
+	<PreferenceScreen
+			android:key="recoverxVersion"
+			android:title="@string/titleRecoverxVersion"
+			android:icon="@drawable/ic_launcher" />
+    
+    <PreferenceCategory android:title="@string/categorySupport" >
+        <PreferenceScreen
+			android:key="recoverxXdaLink"
+			android:title="@string/titleRecoverxXdaLink"
+			android:icon="@drawable/xda" />
+        <PreferenceScreen
+			android:key="recoverxGooglePlusLink"
+			android:title="@string/titleRecoverxGooglePlusLink"
+			android:icon="@drawable/gplus" />
+        <PreferenceScreen
+			android:key="recoverxWebsiteLink"
+			android:title="@string/titleRecoverxWebsiteLink"
+			android:icon="@drawable/website" />
+        <PreferenceScreen
+                android:key="recoverxYoutubeLink"
+                android:title="@string/titleRecoverxYoutubeLink"
+                android:icon="@drawable/youtube" />
+    </PreferenceCategory>
+    
+</PreferenceScreen> 

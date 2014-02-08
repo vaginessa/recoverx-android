@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    	<CheckBoxPreference
+	    	android:title="@string/titleBooleanCustomFlash"
+	    	android:summary="@string/summaryBooleanCustomFlash"
+            android:defaultValue="false"
+            android:key="booleanCustomFlash" />
+    
+    	<EditTextPreference 
+            android:title="@string/titleStringCustomFlash"
+            android:summary="@string/summaryStringCustomFlash"
+            android:key="stringCustomFlash"
+            android:dependency="booleanCustomFlash" />    
+    
+</PreferenceScreen>
