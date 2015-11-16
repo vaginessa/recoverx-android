@@ -1,4 +1,4 @@
-This work is made available under the terms of the Creative Commons Attribution 3.0 not transposed.
-More information at http://creativecommons.org/licenses/by/3.0/deed.com
+RecoverX
+========
 
-XDA official post : http://forum.xda-developers.com/showthread.php?t=2595072
+Universal android recovery installer written on my spare time :)
