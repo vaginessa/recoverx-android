@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.hmkcode.mongoz.MainActivity">
+
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/item_scores"
+            android:title="Mes scores"/>
+        <item
+            android:id="@+id/item_installation"
+            android:title="Installation"/>
+
+        <item
+            android:id="@+id/item_about"
+            android:title="À propos"/>
+
+        <item
+            android:id="@+id/item_logout"
+            android:title="Se déconnecter"/>
+    </group>
+
+</menu>
